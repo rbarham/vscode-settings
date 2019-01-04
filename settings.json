@@ -4,5 +4,6 @@
     "workbench.iconTheme": "eq-material-theme-icons-light",
     "material-icon-theme.hidesExplorerArrows": false,
     "material-icon-theme.folders.color": "#90a4ae",
-    "workbench.colorTheme": "Material Theme Darker High Contrast"
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "java.configuration.updateBuildConfiguration": "automatic"
 }
