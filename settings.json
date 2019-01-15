@@ -5,5 +5,6 @@
     "material-icon-theme.hidesExplorerArrows": false,
     "material-icon-theme.folders.color": "#90a4ae",
     "workbench.colorTheme": "Material Theme Darker High Contrast",
-    "java.configuration.updateBuildConfiguration": "automatic"
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "go.inferGopath": true
 }
